@@ -5,7 +5,7 @@ O **StoreClub** é um projeto de loja virtual desenvolvido para colocar em prát
 > **Status do Projeto:** Concluído / Em evolução 🚀
 
 ## 🎨 Layout
-![Demonstração do App](finance-gif.gif)
+![Demonstração do App](storeclub.gif)
 
 ## 🎯 Objetivo
 Demonstrar a criação de um catálogo de produtos moderno, com foco em usabilidade, organização de componentes e fidelidade ao design em diferentes tamanhos de tela (Mobile e Desktop).
