@@ -18,7 +18,7 @@ Demonstrar a criação de um catálogo de produtos moderno, com foco em usabilid
 - **Navegação Intuitiva**: Menu e botões de ação (Call to Action) bem posicionados.
 
 ## 🚀 Como visualizar
-Você pode conferir o projeto online através do link abaixo:
+Você pode conferir o projeto online através do link:
 [StoreClub](https://store-club.vercel.app/)
 
 ---
