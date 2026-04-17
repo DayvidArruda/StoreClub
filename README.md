@@ -19,7 +19,7 @@ Demonstrar a criação de um catálogo de produtos moderno, com foco em usabilid
 
 ## 🚀 Como visualizar
 Você pode conferir o projeto online através do link abaixo:
-[](https://store-club.vercel.app/)
+[StoreClub](https://store-club.vercel.app/)
 
 ---
 Desenvolvido por [Dayvid Arruda](https://github.com/DayvidArruda)
